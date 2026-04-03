@@ -1,3 +1,5 @@
+
+//Just holds data
 package srp;
    public class Employee {
        private String name;
